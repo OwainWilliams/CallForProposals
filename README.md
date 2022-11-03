@@ -8,6 +8,8 @@ Initially these ideas are for Umbraco events/meetups but other events are welcom
 
 Just create a PR to this repo and add a topic. 
 
+The topics and descriptions below are taken from Codegarden 2023 CFP and I felt they were good starting points.
+
 ## Technical
 
 Your talk targets .NET devlopers and DevOps with a strong focus on code and the technical part of working with Umbraco. The talk delves into Umbraco and will give any developer an edge in the fast-moving world of the Umbraco CMS.
