@@ -20,7 +20,7 @@ Your talk targets .NET devlopers and DevOps with a strong focus on code and the 
 
 Your talk targets web designers and web developers. The audience can expect design-focused talks that might contain HTML, JavaScript, or CSS, but none (or very little) .NET code.
 
--
+- how to build and style a back office dashboard/package
 
 ## Innovative case studies
 
