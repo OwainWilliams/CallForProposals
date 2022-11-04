@@ -33,3 +33,4 @@ Your talk targets anyone interested in real-world examples and case studies, tha
 Your talk focuses on developer learning experinces and sharing ideas and stories that are engaging, inspiring, and thought-provoking. The talk can cover career stories that inspire the audience and leave them with practical and acionable takeaways. 
 
 - tips on how to get the most out of joining a community 
+- How to kick off a new meetup
